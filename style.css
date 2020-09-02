@@ -9,7 +9,7 @@ body{background: #000000;  /* fallback for old browsers */
 top: 0px;
 width: 1880px;
 height: 240px;
-background-image:url(cancha.jpg);
+background-image:url(media/Cancha.jpg);
 
 
 }
@@ -22,7 +22,8 @@ background-image:url(cancha.jpg);
   
 }
 
-.portada h2{color: #1f201d ;
+.portada h2{
+  color: #1f201d ;
   text-align: center;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 80px;
